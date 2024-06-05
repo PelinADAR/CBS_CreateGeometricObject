@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpatialiteProject_geo_gis", "SpatialiteProject_geo_gis\SpatialiteProject_geo_gis.csproj", "{B09F08C3-FF55-48B8-9C53-FABAADD3F6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09F08C3-FF55-48B8-9C53-FABAADD3F6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09F08C3-FF55-48B8-9C53-FABAADD3F6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09F08C3-FF55-48B8-9C53-FABAADD3F6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09F08C3-FF55-48B8-9C53-FABAADD3F6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79BF4671-79EB-4D8B-B294-DC03C0B063D3}
+	EndGlobalSection
+EndGlobal

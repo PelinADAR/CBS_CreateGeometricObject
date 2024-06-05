@@ -1,0 +1,340 @@
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.exe
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\template.sqlite
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.deps.json
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.runtimeconfig.json
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libfreexl-1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos_c.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libiconv-2.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\liblzma-5.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libproj-13.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libxml2-2.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\mod_spatialite.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libfreexl-1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos_c.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libiconv-2.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\liblzma-5.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libproj-13.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libxml2-2.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\mod_spatialite.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfo.cs
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\Spatiali.F01D5F04.Up2Date
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\refint\SpatialiteProject_geo_gis.dll
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.genruntimeconfig.cache
+C:\Users\hakan\Desktop\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\ref\SpatialiteProject_geo_gis.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.exe
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\template.sqlite
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.deps.json
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.runtimeconfig.json
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libfreexl-1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos_c.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libiconv-2.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\liblzma-5.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libproj-13.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libxml2-2.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\mod_spatialite.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libfreexl-1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos_c.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libiconv-2.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\liblzma-5.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libproj-13.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libxml2-2.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\mod_spatialite.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.AssemblyReference.cache
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfoInputs.cache
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfo.cs
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.CoreCompileInputs.cache
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\Spatiali.F01D5F04.Up2Date
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\refint\SpatialiteProject_geo_gis.dll
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.genruntimeconfig.cache
+C:\Users\mfx\Downloads\pelinadar_interview_project\baskengaz_interview_project\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\ref\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.exe
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\template.sqlite
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.deps.json
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.runtimeconfig.json
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libfreexl-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos_c.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libiconv-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\liblzma-5.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libproj-13.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libxml2-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\mod_spatialite.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libfreexl-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos_c.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libiconv-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\liblzma-5.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libproj-13.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libxml2-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\mod_spatialite.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.AssemblyReference.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfoInputs.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfo.cs
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.CoreCompileInputs.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\Spatiali.F01D5F04.Up2Date
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\refint\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.genruntimeconfig.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\baskengaz_interview_project (3)\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\ref\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.exe
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\template.sqlite
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.deps.json
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.runtimeconfig.json
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libfreexl-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos_c.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libiconv-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\liblzma-5.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libproj-13.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libxml2-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\mod_spatialite.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libfreexl-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos_c.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libiconv-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\liblzma-5.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libproj-13.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libxml2-2.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\mod_spatialite.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.AssemblyReference.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfoInputs.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfo.cs
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.CoreCompileInputs.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\Spatiali.F01D5F04.Up2Date
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\refint\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.genruntimeconfig.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v2\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\ref\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v3\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.AssemblyReference.cache
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v3\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v3\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v3\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\refint\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz-20240520T075724Z-001\baskentgaz\pelinadar_interview_project_v3\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.exe
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\template.sqlite
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.deps.json
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.runtimeconfig.json
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libfreexl-1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libgeos_c.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libiconv-2.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\liblzma-5.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libproj-13.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\libxml2-2.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\mod_spatialite.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libfreexl-1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libgeos_c.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libiconv-2.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\liblzma-5.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libproj-13.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\libxml2-2.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\mod_spatialite.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.AssemblyReference.cache
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfoInputs.cache
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.AssemblyInfo.cs
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.csproj.CoreCompileInputs.cache
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\Spatiali.F01D5F04.Up2Date
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\refint\SpatialiteProject_geo_gis.dll
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.pdb
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\SpatialiteProject_geo_gis.genruntimeconfig.cache
+C:\Users\cadar\Desktop\baskentgaz\pelinadar_interview_project_v3\SpatialiteProject_geo_gis\SpatialiteProject_geo_gis\obj\Debug\net8.0\ref\SpatialiteProject_geo_gis.dll
